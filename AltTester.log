@@ -1,0 +1,45 @@
+2024-04-26 09:58:20.6007|INFO|Info
+2024-04-26 09:58:20.6007|INFO|AltTester® logs are saved at: D:\Projects\Unity projects\TestFrameworkTryout\AltTester.log
+2024-04-26 09:58:20.6007|DEBUG|Connecting to AltTester® on host: '127.0.0.1', port: '13000', appName: '__default__', platform: 'unknown', platformVersion: 'unknown', deviceInstanceId: 'unknown' and driverType: 'SDK'.
+2024-04-26 09:58:20.6007|INFO|Connecting to: 'ws://127.0.0.1:13000/altws?appName=__default__&platform=unknown&platformVersion=unknown&deviceInstanceId=unknown&appId=unknown&driverType=SDK'.
+2024-04-26 09:58:22.6227|DEBUG|Connection to AltTester® Server closed: [Code:1006, Reason:An exception has occurred while attempting to connect.].
+2024-04-26 09:58:22.7244|DEBUG|Closed connection because AltTester.AltTesterUnitySDK.Driver.ConnectionException: Connection closed by AltTester® Server with reason: An exception has occurred while attempting to connect..
+  at AltTester.AltTesterUnitySDK.Driver.Communication.DriverWebSocketClient.CheckCloseMessage () [0x0008d] in D:\Projects\Unity projects\TestFrameworkTryout\Assets\AltTester\Runtime\AltDriver\Communication\DriverWebSocketClient.cs:100 
+  at AltTester.AltTesterUnitySDK.Driver.Communication.DriverWebSocketClient.Connect () [0x00160] in D:\Projects\Unity projects\TestFrameworkTryout\Assets\AltTester\Runtime\AltDriver\Communication\DriverWebSocketClient.cs:182 
+2024-04-26 09:58:22.7244|DEBUG|Retrying #1 to connect to: 'ws://127.0.0.1:13000/altws?appName=__default__&platform=unknown&platformVersion=unknown&deviceInstanceId=unknown&appId=unknown&driverType=SDK'.
+2024-04-26 09:58:24.7591|DEBUG|Connection to AltTester® Server closed: [Code:1006, Reason:An exception has occurred while attempting to connect.].
+2024-04-26 09:58:24.8594|DEBUG|Closed connection because AltTester.AltTesterUnitySDK.Driver.ConnectionException: Connection closed by AltTester® Server with reason: An exception has occurred while attempting to connect..
+  at AltTester.AltTesterUnitySDK.Driver.Communication.DriverWebSocketClient.CheckCloseMessage () [0x0008d] in D:\Projects\Unity projects\TestFrameworkTryout\Assets\AltTester\Runtime\AltDriver\Communication\DriverWebSocketClient.cs:100 
+  at AltTester.AltTesterUnitySDK.Driver.Communication.DriverWebSocketClient.Connect () [0x00160] in D:\Projects\Unity projects\TestFrameworkTryout\Assets\AltTester\Runtime\AltDriver\Communication\DriverWebSocketClient.cs:182 
+2024-04-26 09:58:24.8594|DEBUG|Retrying #2 to connect to: 'ws://127.0.0.1:13000/altws?appName=__default__&platform=unknown&platformVersion=unknown&deviceInstanceId=unknown&appId=unknown&driverType=SDK'.
+2024-04-26 09:58:26.9001|DEBUG|Connection to AltTester® Server closed: [Code:1006, Reason:An exception has occurred while attempting to connect.].
+2024-04-26 09:58:27.0023|DEBUG|Closed connection because AltTester.AltTesterUnitySDK.Driver.ConnectionException: Connection closed by AltTester® Server with reason: An exception has occurred while attempting to connect..
+  at AltTester.AltTesterUnitySDK.Driver.Communication.DriverWebSocketClient.CheckCloseMessage () [0x0008d] in D:\Projects\Unity projects\TestFrameworkTryout\Assets\AltTester\Runtime\AltDriver\Communication\DriverWebSocketClient.cs:100 
+  at AltTester.AltTesterUnitySDK.Driver.Communication.DriverWebSocketClient.Connect () [0x00160] in D:\Projects\Unity projects\TestFrameworkTryout\Assets\AltTester\Runtime\AltDriver\Communication\DriverWebSocketClient.cs:182 
+2024-04-26 09:58:27.0023|DEBUG|Retrying #3 to connect to: 'ws://127.0.0.1:13000/altws?appName=__default__&platform=unknown&platformVersion=unknown&deviceInstanceId=unknown&appId=unknown&driverType=SDK'.
+2024-04-26 09:58:29.0466|DEBUG|Connection to AltTester® Server closed: [Code:1006, Reason:An exception has occurred while attempting to connect.].
+2024-04-26 09:58:29.1480|DEBUG|Closed connection because AltTester.AltTesterUnitySDK.Driver.ConnectionException: Connection closed by AltTester® Server with reason: An exception has occurred while attempting to connect..
+  at AltTester.AltTesterUnitySDK.Driver.Communication.DriverWebSocketClient.CheckCloseMessage () [0x0008d] in D:\Projects\Unity projects\TestFrameworkTryout\Assets\AltTester\Runtime\AltDriver\Communication\DriverWebSocketClient.cs:100 
+  at AltTester.AltTesterUnitySDK.Driver.Communication.DriverWebSocketClient.Connect () [0x00160] in D:\Projects\Unity projects\TestFrameworkTryout\Assets\AltTester\Runtime\AltDriver\Communication\DriverWebSocketClient.cs:182 
+2024-04-26 09:58:29.1480|DEBUG|Retrying #4 to connect to: 'ws://127.0.0.1:13000/altws?appName=__default__&platform=unknown&platformVersion=unknown&deviceInstanceId=unknown&appId=unknown&driverType=SDK'.
+2024-04-26 09:58:31.1834|DEBUG|Connection to AltTester® Server closed: [Code:1006, Reason:An exception has occurred while attempting to connect.].
+2024-04-26 09:58:31.2838|DEBUG|Closed connection because AltTester.AltTesterUnitySDK.Driver.ConnectionException: Connection closed by AltTester® Server with reason: An exception has occurred while attempting to connect..
+  at AltTester.AltTesterUnitySDK.Driver.Communication.DriverWebSocketClient.CheckCloseMessage () [0x0008d] in D:\Projects\Unity projects\TestFrameworkTryout\Assets\AltTester\Runtime\AltDriver\Communication\DriverWebSocketClient.cs:100 
+  at AltTester.AltTesterUnitySDK.Driver.Communication.DriverWebSocketClient.Connect () [0x00160] in D:\Projects\Unity projects\TestFrameworkTryout\Assets\AltTester\Runtime\AltDriver\Communication\DriverWebSocketClient.cs:182 
+2024-04-26 09:58:31.2838|DEBUG|Retrying #5 to connect to: 'ws://127.0.0.1:13000/altws?appName=__default__&platform=unknown&platformVersion=unknown&deviceInstanceId=unknown&appId=unknown&driverType=SDK'.
+2024-04-26 09:58:33.3184|DEBUG|Connection to AltTester® Server closed: [Code:1006, Reason:An exception has occurred while attempting to connect.].
+2024-04-26 09:58:33.4192|DEBUG|Closed connection because AltTester.AltTesterUnitySDK.Driver.ConnectionException: Connection closed by AltTester® Server with reason: An exception has occurred while attempting to connect..
+  at AltTester.AltTesterUnitySDK.Driver.Communication.DriverWebSocketClient.CheckCloseMessage () [0x0008d] in D:\Projects\Unity projects\TestFrameworkTryout\Assets\AltTester\Runtime\AltDriver\Communication\DriverWebSocketClient.cs:100 
+  at AltTester.AltTesterUnitySDK.Driver.Communication.DriverWebSocketClient.Connect () [0x00160] in D:\Projects\Unity projects\TestFrameworkTryout\Assets\AltTester\Runtime\AltDriver\Communication\DriverWebSocketClient.cs:182 
+2024-04-26 09:58:33.4192|DEBUG|Retrying #6 to connect to: 'ws://127.0.0.1:13000/altws?appName=__default__&platform=unknown&platformVersion=unknown&deviceInstanceId=unknown&appId=unknown&driverType=SDK'.
+2024-04-26 09:58:35.4924|DEBUG|Connection to AltTester® Server closed: [Code:1006, Reason:An exception has occurred while attempting to connect.].
+2024-04-26 09:58:35.5938|DEBUG|Closed connection because AltTester.AltTesterUnitySDK.Driver.ConnectionException: Connection closed by AltTester® Server with reason: An exception has occurred while attempting to connect..
+  at AltTester.AltTesterUnitySDK.Driver.Communication.DriverWebSocketClient.CheckCloseMessage () [0x0008d] in D:\Projects\Unity projects\TestFrameworkTryout\Assets\AltTester\Runtime\AltDriver\Communication\DriverWebSocketClient.cs:100 
+  at AltTester.AltTesterUnitySDK.Driver.Communication.DriverWebSocketClient.Connect () [0x00160] in D:\Projects\Unity projects\TestFrameworkTryout\Assets\AltTester\Runtime\AltDriver\Communication\DriverWebSocketClient.cs:182 
+2024-04-26 09:58:35.5938|DEBUG|Retrying #7 to connect to: 'ws://127.0.0.1:13000/altws?appName=__default__&platform=unknown&platformVersion=unknown&deviceInstanceId=unknown&appId=unknown&driverType=SDK'.
+2024-04-26 09:58:37.6318|DEBUG|Connection to AltTester® Server closed: [Code:1006, Reason:An exception has occurred while attempting to connect.].
+2024-04-26 09:58:37.7327|DEBUG|Closed connection because AltTester.AltTesterUnitySDK.Driver.ConnectionException: Connection closed by AltTester® Server with reason: An exception has occurred while attempting to connect..
+  at AltTester.AltTesterUnitySDK.Driver.Communication.DriverWebSocketClient.CheckCloseMessage () [0x0008d] in D:\Projects\Unity projects\TestFrameworkTryout\Assets\AltTester\Runtime\AltDriver\Communication\DriverWebSocketClient.cs:100 
+  at AltTester.AltTesterUnitySDK.Driver.Communication.DriverWebSocketClient.Connect () [0x00160] in D:\Projects\Unity projects\TestFrameworkTryout\Assets\AltTester\Runtime\AltDriver\Communication\DriverWebSocketClient.cs:182 
+2024-04-26 09:58:37.7327|DEBUG|Retrying #8 to connect to: 'ws://127.0.0.1:13000/altws?appName=__default__&platform=unknown&platformVersion=unknown&deviceInstanceId=unknown&appId=unknown&driverType=SDK'.
+2024-04-26 09:58:39.7566|DEBUG|Connection to AltTester® Server closed: [Code:1006, Reason:An exception has occurred while attempting to connect.].
